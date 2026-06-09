@@ -1,7 +1,0 @@
-{
-  "name": "aletcloud-qa-test",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "echo 'Static site - no build needed'"
-  }
-}
